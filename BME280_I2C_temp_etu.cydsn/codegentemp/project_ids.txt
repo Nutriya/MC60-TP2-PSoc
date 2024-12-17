@@ -1,0 +1,6 @@
+C:\Users\labview\Desktop\MC60 - partie 2\TP2-LLA\BME280_I2C_temp_etu.cydsn\BME280_I2C_temp_etu.cyprj|6554e067-69c7-415f-808d-3f6f87f964b6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2eafef18-c163-48ba-a715-e364f2d6a6a7
+C:\Users\labview\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|99fe0a28-c9b8-4479-aaaa-8ede92f65b23
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|89e4702b-9a7e-4cd9-9b9c-556adff8fea6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ba4e254d-7bc9-479d-bb1b-7f16e4ba5e98
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|9f725866-2a51-477b-9f65-e2b53d87ae6e

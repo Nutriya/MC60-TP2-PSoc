@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\TopDesign">
+<ExpandedNodeIds>
+<v>BME280_I2C_temp_etu-000</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\TopDesign</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Pins</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Analog</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\DMA</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Clocks</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Interrupts</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\System</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Directives</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Flash Security</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\datasheet</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Header Files</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Header Files\BME280.h</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Header Files\cyapicallbacks.h</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Source Files</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Source Files\BME280.c</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Source Files\main.c</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BME280_I2C_temp_etu-000</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\TopDesign</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Pins</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Analog</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\DMA</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Clocks</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Interrupts</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\System</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Directives</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.cydwr\Flash Security</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\datasheet</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Header Files</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Header Files\BME280.h</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Header Files\cyapicallbacks.h</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Source Files</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Source Files\BME280.c</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Source Files\main.c</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BME280_I2C_temp_etu-000</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\TopDesign</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BME280_I2C_temp_etu-000</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\TopDesign</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BME280_I2C_temp_etu-000</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\BME280.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_BOOT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_INT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_MASTER.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCB_IRQ.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCBCLK.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\ISR.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_rx.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_rx_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_tx.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_tx_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_UART.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_UART_BOOT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\BME280_I2C_temp_etu.elf</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\BME280_I2C_temp_etu.hex</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\BME280_I2C_temp_etu.map</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.gpdsc</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu.rpt</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\BME280_I2C_temp_etu_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BME280_I2C_temp_etu-000</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\BME280.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_BOOT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_INT.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_MASTER.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCB_IRQ.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCBCLK.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\ISR.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer_PM.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BME280_I2C_temp_etu-000</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\PSoC 4 Architecture TRM</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\PSoC 4200M Family Datasheet</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\System Reference Guides</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BME280_I2C_temp_etu-000</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\PSoC 4 Architecture TRM</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\PSoC 4200M Family Datasheet</v>
+<v>BME280_I2C_temp_etu-000\BME280_I2C_temp_etu\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\main.c" />
+<name v=".\cyapicallbacks.h" />
+<name v=".\BME280.c" />
+<name v=".\BME280.h" />
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\BME280_I2C_temp_etu.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="982, 674" SelectedTabbedMdiWindow="0e3f3da8-4d12-4a2e-b10e-b3bb1cf398ee"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="8e313672-3071-4c91-90bc-61468cd91f88" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP2-LLA\BME280_I2C_temp_etu.cydsn\main.c" Guid="0e3f3da8-4d12-4a2e-b10e-b3bb1cf398ee" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP2-LLA\BME280_I2C_temp_etu.cydsn\cyapicallbacks.h" Guid="648b6eb4-6470-43ae-80d3-5b0b07a355a6" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP2-LLA\BME280_I2C_temp_etu.cydsn\BME280.c" Guid="cf10bb2e-29da-482e-a5f4-b75c568cc60a" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP2-LLA\BME280_I2C_temp_etu.cydsn\BME280.h" Guid="95fb8120-42ce-487e-b806-661014aba505" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP2-LLA\BME280_I2C_temp_etu.cydsn\TopDesign\TopDesign.cysch" Guid="fdcd26e4-06b3-49b2-bcf4-0de4c35623ac" /><DocumentWindow Key="C:\Users\labview\Desktop\MC60 - partie 2\TP2-LLA\BME280_I2C_temp_etu.cydsn\BME280_I2C_temp_etu.cydwr" Guid="ee745b7e-5ec8-4cd6-aa15-b307bce453ba" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
